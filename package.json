@@ -1,0 +1,23 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "Snake Game Remix! O Jogo da Cobra!",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "keywords": [
+    "snake game",
+    "snake",
+    "jogo",
+    "game",
+    "jogo da cobra",
+    "cobra"
+  ],
+  "author": "Alexander Cesar Luiz Costa",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
